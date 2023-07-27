@@ -16,9 +16,8 @@
     
 <p/>
 <div align="center">  
-  <img width="85%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luriquePro&layout=compact" alt="Lurique Pro" />
-  <img width="85%" height="250px" style="margin-top:4rem;" src="https://github-readme-stats.vercel.app/api?username=luriquePro&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Lurique Pro" />
-  <img width="85%" height="250px" style="margin-top:4rem;" src="https://github-profile-trophy.vercel.app/?username=luriquePro" alt="Lurique Pro" />
+  <img width="85%" style="margin:3rem 0; height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luriquePro&layout=compact" alt="Lurique Pro" />
+  <img width="85%" style="margin:3rem 0; height="250px" style="margin-top:4rem;" src="https://github-readme-stats.vercel.app/api?username=luriquePro&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Lurique Pro" />
 </div>
 
 ### Front-End:
