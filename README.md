@@ -10,9 +10,6 @@
     <a href="https://www.linkedin.com/in/luiz-henrique-039aba231/" style="margin:0 10px ;">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />
     <a/>
-    <a href="#Portfolio" style="margin:0 10px ;">
-        <img src="" />
-    <a/>
     
 <p/>
 <div align="center">  
