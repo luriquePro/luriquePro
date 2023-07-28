@@ -38,7 +38,7 @@
 
 
 <p>
-  <a href="#Portfolio" target="_blank">
+  <a href="https://luriquepro.github.io/portfolio/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Portfolio-LuriquePro-blue?style=flat-square&logo=github">
   </a>
 </p>
